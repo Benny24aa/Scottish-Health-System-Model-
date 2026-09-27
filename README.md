@@ -1,6 +1,6 @@
 # Scottish Health System Model 🏥🏴
 
-An open-source R project exploring how the **Scottish health system can be represented, analysed and modelled using publicly available data**.
+An open-source R, Power BI and Tableau project exploring how the **Scottish health system can be represented, analysed and modelled using publicly available data**.
 
 The project brings together data from the **Public Health Scotland (PHS) Scottish Health and Social Care Open Data platform**, statistical modelling, machine learning, forecasting and simulation to investigate patterns, demand, capacity and relationships across different parts of the health system.
 
